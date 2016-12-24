@@ -1,0 +1,2 @@
+# mystockA
+repoitoryA
